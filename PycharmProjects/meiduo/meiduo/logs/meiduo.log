@@ -1,0 +1,447 @@
+WARNING 2018-10-25 10:21:26,383 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:21:26,385 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:21:26,480 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:21:26,485 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:21:26,488 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:21:26,491 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:21:31,672 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:21:31,679 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:21:31,679 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:21:31,689 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:22:07,076 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:22:07,080 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:22:07,081 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:22:07,086 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:22:08,561 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:22:08,565 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:22:08,566 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:22:08,571 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:22:22,211 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:22:22,213 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:22:22,233 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:22:22,235 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:32:34,520 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:32:34,524 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:32:34,530 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:32:34,545 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:32:37,409 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:32:37,411 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:32:37,414 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:32:37,434 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:32:50,198 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:32:50,199 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2195
+WARNING 2018-10-25 10:32:50,209 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:32:50,210 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:33:07,434 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:33:07,434 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2180
+WARNING 2018-10-25 10:33:07,802 base 152 Not Found: /favicon.ico
+WARNING 2018-10-25 10:33:07,802 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2150
+WARNING 2018-10-25 10:33:52,094 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:33:52,098 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2185
+WARNING 2018-10-25 10:34:44,422 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:34:44,426 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2185
+WARNING 2018-10-25 10:36:54,967 base 152 Not Found: /sms_code/15675456179/
+WARNING 2018-10-25 10:36:54,972 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 404 2185
+INFO 2018-10-25 10:38:24,553 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 200 5293
+INFO 2018-10-25 10:38:24,986 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2018-10-25 10:38:24,988 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2018-10-25 10:38:24,991 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2018-10-25 10:38:24,994 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2018-10-25 10:38:25,003 basehttp 124 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+INFO 2018-10-25 10:38:25,026 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2018-10-25 10:38:25,028 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+INFO 2018-10-25 10:38:25,036 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2018-10-25 10:38:25,071 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2018-10-25 10:38:25,093 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+INFO 2018-10-25 10:38:25,389 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2018-10-25 10:38:39,646 basehttp 124 "GET /sms_code/17607162138/ HTTP/1.1" 200 5293
+INFO 2018-10-25 10:38:39,785 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,792 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,795 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,808 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,810 basehttp 124 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,835 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,861 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,892 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,879 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:39,916 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2018-10-25 10:38:40,166 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2018-10-25 10:38:40,381 base 152 Not Found: /favicon.ico
+WARNING 2018-10-25 10:38:40,391 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2151
+WARNING 2018-10-25 10:38:50,354 base 152 Not Found: /
+WARNING 2018-10-25 10:38:50,355 basehttp 124 "GET / HTTP/1.1" 404 2100
+WARNING 2018-10-25 10:39:33,928 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:39:33,931 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2202
+WARNING 2018-10-25 10:39:33,965 base 152 Not Found: /mobiles/15675456179/count/
+WARNING 2018-10-25 10:39:33,968 basehttp 124 "GET /mobiles/15675456179/count/ HTTP/1.1" 404 2202
+INFO 2018-10-25 10:39:33,988 basehttp 124 "GET /sms_code/15675456179/ HTTP/1.1" 200 16
+ERROR 2018-10-25 14:37:02,595 exception 135 Internal Server Error: /usernames/123456/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:37:02,699 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 500 84498
+ERROR 2018-10-25 14:37:26,763 exception 135 Internal Server Error: /mobiles/15555555555/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:37:26,859 basehttp 124 "GET /mobiles/15555555555/count/ HTTP/1.1" 500 84531
+ERROR 2018-10-25 14:37:26,873 exception 135 Internal Server Error: /mobiles/15555555555/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:37:26,940 basehttp 124 "GET /mobiles/15555555555/count/ HTTP/1.1" 500 84532
+INFO 2018-10-25 14:37:26,980 basehttp 124 "GET /sms_code/15555555555/ HTTP/1.1" 200 16
+INFO 2018-10-25 14:38:04,081 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+ERROR 2018-10-25 14:38:04,086 exception 135 Internal Server Error: /mobiles/15555555555/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+WARNING 2018-10-25 14:38:04,156 base 152 Not Found: /users/
+WARNING 2018-10-25 14:38:04,157 basehttp 124 "POST /users/ HTTP/1.1" 404 2689
+ERROR 2018-10-25 14:38:04,161 exception 135 Internal Server Error: /usernames/123456/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:38:04,409 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 500 84497
+ERROR 2018-10-25 14:38:04,578 basehttp 124 "GET /mobiles/15555555555/count/ HTTP/1.1" 500 84532
+ERROR 2018-10-25 14:41:56,079 exception 135 Internal Server Error: /mobiles/15555555555/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+INFO 2018-10-25 14:41:56,182 basehttp 124 "GET /sms_code/15555555555/ HTTP/1.1" 200 16
+ERROR 2018-10-25 14:41:56,328 basehttp 124 "GET /mobiles/15555555555/count/ HTTP/1.1" 500 84531
+ERROR 2018-10-25 14:43:18,399 exception 135 Internal Server Error: /mobiles/15555555556/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+INFO 2018-10-25 14:43:18,500 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+ERROR 2018-10-25 14:43:18,635 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 500 84407
+ERROR 2018-10-25 14:43:18,657 exception 135 Internal Server Error: /mobiles/15555555556/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:43:18,745 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 500 84407
+ERROR 2018-10-25 14:45:53,868 exception 135 Internal Server Error: /mobiles/15555555556/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+INFO 2018-10-25 14:45:53,946 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+ERROR 2018-10-25 14:45:54,145 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 500 84407
+ERROR 2018-10-25 14:50:04,745 exception 135 Internal Server Error: /mobiles/15555555556/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:50:04,862 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 500 84819
+ERROR 2018-10-25 14:50:43,594 exception 135 Internal Server Error: /mobiles/15555555556/count/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2018-10-25 14:50:43,706 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 500 84291
+INFO 2018-10-25 15:05:23,892 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:05:24,004 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+INFO 2018-10-25 15:05:39,028 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-10-25 15:05:39,042 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:05:39,062 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 200 31
+ERROR 2018-10-25 15:05:39,108 exception 135 Internal Server Error: /users/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/generics.py", line 192, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/mixins.py", line 20, in create
+    serializer.is_valid(raise_exception=True)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 236, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 437, in run_validation
+    value = self.validate(value)
+  File "/home/python/PycharmProjects/meiduo/meiduo/meiduo/apps/users/serializers.py", line 39, in validate
+    redis_cli=get_redis_connection('sms_code')#从哪个缓存库
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django_redis/__init__.py", line 14, in get_redis_connection
+    cache = caches[alias]
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/cache/__init__.py", line 77, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'sms_code' in settings.CACHES
+ERROR 2018-10-25 15:05:39,260 basehttp 124 "POST /users/ HTTP/1.1" 500 17862
+INFO 2018-10-25 15:05:49,958 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:05:49,963 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 200 31
+ERROR 2018-10-25 15:05:49,973 exception 135 Internal Server Error: /users/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/generics.py", line 192, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/mixins.py", line 20, in create
+    serializer.is_valid(raise_exception=True)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 236, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 437, in run_validation
+    value = self.validate(value)
+  File "/home/python/PycharmProjects/meiduo/meiduo/meiduo/apps/users/serializers.py", line 39, in validate
+    redis_cli=get_redis_connection('sms_code')#从哪个缓存库
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django_redis/__init__.py", line 14, in get_redis_connection
+    cache = caches[alias]
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/cache/__init__.py", line 77, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'sms_code' in settings.CACHES
+ERROR 2018-10-25 15:05:50,050 basehttp 124 "POST /users/ HTTP/1.1" 500 17862
+INFO 2018-10-25 15:09:38,887 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:09:39,036 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+INFO 2018-10-25 15:09:55,868 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 200 31
+WARNING 2018-10-25 15:09:55,873 basehttp 124 "POST /users/ HTTP/1.1" 400 52
+INFO 2018-10-25 15:09:55,883 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:11:42,917 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:11:43,023 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+INFO 2018-10-25 15:12:08,218 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 200 31
+INFO 2018-10-25 15:12:08,231 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+WARNING 2018-10-25 15:12:08,233 basehttp 124 "POST /users/ HTTP/1.1" 400 52
+INFO 2018-10-25 15:16:37,372 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:16:37,420 basehttp 124 "GET /sms_code/15555555556/ HTTP/1.1" 200 16
+INFO 2018-10-25 15:16:53,764 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-10-25 15:16:53,769 basehttp 124 "GET /usernames/123456/count/ HTTP/1.1" 200 31
+INFO 2018-10-25 15:16:53,784 basehttp 124 "GET /mobiles/15555555556/count/ HTTP/1.1" 200 34
+INFO 2018-10-25 15:16:53,926 basehttp 124 "POST /users/ HTTP/1.1" 201 44
+INFO 2018-10-26 21:52:25,297 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+ERROR 2018-10-26 21:52:25,369 exception 135 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework_jwt/views.py", line 57, in post
+    if serializer.is_valid():
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 236, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework/serializers.py", line 437, in run_validation
+    value = self.validate(value)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/rest_framework_jwt/serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+  File "/home/python/.vritualenvs/django_py3/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 100, in authenticate
+    user = backend.authenticate(*args, **credentials)
+  File "/home/python/PycharmProjects/meiduo/meiduo/meiduo/apps/users/utils.py", line 26, in authenticate
+    if user.check_password(password):
+AttributeError: 'QuerySet' object has no attribute 'check_password'
+ERROR 2018-10-26 21:52:25,454 basehttp 124 "POST /authorizations/ HTTP/1.1" 500 18282
+WARNING 2018-10-26 21:53:31,450 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+WARNING 2018-10-26 21:53:47,047 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-10-26 21:53:50,699 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-10-26 21:53:51,072 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+WARNING 2018-10-26 21:53:51,198 basehttp 124 "GET /users/ HTTP/1.1" 405 45
+INFO 2018-10-27 09:03:36,429 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-27 09:03:36,523 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-10-27 09:05:32,105 basehttp 124 code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x81\x8e¿Ç\x14_$«+\x98@¶TÔ')
+ERROR 2018-10-27 09:05:32,105 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2018-10-27 09:05:32,107 basehttp 124 code 400, message Bad request version ('\x1a\x1aÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR 2018-10-27 09:05:32,107 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2018-10-27 09:06:04,920 basehttp 124 code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÿ0ÂQá£«ë±')
+ERROR 2018-10-27 09:06:04,921 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2018-10-27 09:06:04,929 basehttp 124 code 400, message Bad request syntax ('\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x03I\xa0Te\t\x17\x96¼~Ù4xt3É\x18\x99\x10KDª9æ\xad*\x06OÙ\x99ÏJ»\x00\x00\x1cÊÊÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+INFO 2018-10-27 09:06:04,930 basehttp 124 code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ïj¡.wÆ\x8bñP\x11\x9be\x19º\x19§æÝë\x1b\x84e&®&|Â"\x18ëk@ Eº\x9d\x1d\x19\x1c\x90\x0f}**\\0\xa0\x8d[]_\x94uH\x19\x89¶/Õd\x11\x08\r²I\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR 2018-10-27 09:06:04,940 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2018-10-27 09:06:04,940 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2018-10-27 09:06:04,968 basehttp 124 code 400, message Bad request syntax ('\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x03\rxóã®ùF(×\x1a~]\x16ú\x8fÃU\x18\x88D94´\x92ß\x0bYT«ëÑÝ\x00\x00\x1cººÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR 2018-10-27 09:06:04,968 basehttp 107 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2018-10-27 09:11:03,553 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-27 09:11:03,603 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2018-10-27 09:31:52,352 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 73
+WARNING 2018-10-27 09:46:23,773 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 73
+WARNING 2018-10-27 09:46:48,887 base 152 Not Found: /
+WARNING 2018-10-27 09:46:48,897 basehttp 124 "GET / HTTP/1.1" 404 2816
+WARNING 2018-10-27 09:46:49,218 base 152 Not Found: /favicon.ico
+WARNING 2018-10-27 09:46:49,219 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2867
+INFO 2018-10-27 09:47:06,310 basehttp 124 "GET /authorizations HTTP/1.1" 301 0
+WARNING 2018-10-27 09:47:06,445 basehttp 124 "GET /authorizations/ HTTP/1.1" 405 7589
+WARNING 2018-10-27 09:52:07,207 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 73
+WARNING 2018-10-27 09:52:14,867 basehttp 124 "GET /authorizations/ HTTP/1.1" 405 7589
+WARNING 2018-10-27 09:53:47,038 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 73
+INFO 2018-10-27 09:55:56,315 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 8591
+INFO 2018-10-27 09:57:16,774 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 7778
+WARNING 2018-10-27 09:57:27,816 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 73
